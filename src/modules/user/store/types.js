@@ -1,0 +1,5 @@
+export default {
+    SET_MENU: 'SET_MENU',
+    SET_PERMISSIONS: 'SET_PERMISSIONS',
+    SET_USER: 'SET_USER',
+}
