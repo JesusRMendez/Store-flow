@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+### Configuration for Project
+The file .env.development have the configuration needs for connect with Identity Server
 
 ### Compiles and hot-reloads for development
 ```
